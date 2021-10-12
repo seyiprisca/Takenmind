@@ -1,0 +1,2 @@
+# Takenmind
+Takenmind global internship
